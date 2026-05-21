@@ -46,11 +46,9 @@ W projekcie wykorzystano między innymi:
 
 ## Pliki w repozytorium
 
-- `projekt_ing_nlp.ipynb` – główny notebook z analizą,
-- `raport_ing_nlp.pdf` – końcowy raport projektu,
-- `requirements.txt` – lista bibliotek potrzebnych do uruchomienia projektu,
-- `images/` – wykresy i wizualizacje,
-- `data/` – przykładowe dane, jeśli mogą być publicznie udostępnione.
+- `Projekt_ING_praca_podyplomowa.ipynb` – notebook Jupyter zawierający kod, analizę danych, modele NLP oraz wyniki.
+- `Projekt_ING_praca_podyplomowa.pdf` – końcowy raport projektu w formacie PDF.
+- `README.md` – opis projektu, cel, zastosowane technologie i wnioski.
 
 ## Wnioski
 
